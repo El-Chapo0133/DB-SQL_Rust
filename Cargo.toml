@@ -1,0 +1,12 @@
+[package]
+name = "db-sql_rust"
+version = "0.0.1"
+authors = ["El-Chapo0133 <levequeloris66@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "*"
+
+[[bin]]
+name = "db-sql_rust"
+path = "main.rs"
